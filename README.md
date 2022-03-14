@@ -11,14 +11,44 @@ In Analytics Cup 2022 challenge, teams developed a predictive model that classif
 * [Introduction_to_AC_Presentation.pdf](./docs/Introduction_to_AC_Presentation.pdf)
 * [Analytics_Cup_2022_Challenge_Info.pdf](./docs/Analytics_Cup_2022_Challenge_Info.pdf)
 
+
 ## Versed Chimpanzee Group Members
 
 
 ![Winner Team](./docs/img/winner_team.png)
 
-| Contributer    | GitHub Account                                         | LinkedIn Account                          | Email Address                                                 | Other Links                                            |
-|----------------|--------------------------------------------------------|-------------------------------------------|---------------------------------------------------------------|--------------------------------------------------------|
-| Berk Sudan     | [github.com/berksudan](https://github.com/berksudan)   | linkedin.com/in/berksudan/                | [berk.sudan@protonmail.com](mailto:berk.sudan@protonmail.com) | [medium.com/@berksudan](https://medium.com/@berksudan) |
-| Teofil Bodea   | [github.com/Teofil98](https://github.com/Teofil98)     | linkedin.com/in/teofil-bodea-4090811a3    | [teo.bodea12@yahoo.com](mailto:teo.bodea12@yahoo.com)         | -                                                      |
-| Li Zhou        | [github.com/lizhouinfo](https://github.com/lizhouinfo) | linkedin.com/in/li-zhou-782021226         | [li.zhou@tum.de](mailto:li.zhou@tum.de)                       | -                                                      |
-| Saqib Ali Khan | [github.com/saqib22](https://github.com/saqib22)       | linkedin.com/in/saqib-ali-khan-660913129/ | [teo.bodea12@yahoo.com](mailto:teo.bodea12@yahoo.com)         | -                                                      |
+| Contributer    | GitHub Account                                         | LinkedIn Account                                                                             | Email Address                                                 | Other Links                                            |
+|----------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------------|--------------------------------------------------------|
+| Berk Sudan     | [github.com/berksudan](https://github.com/berksudan)   | [linkedin.com/in/berksudan](https://linkedin.com/in/berksudan)                               | [berk.sudan@protonmail.com](mailto:berk.sudan@protonmail.com) | [medium.com/@berksudan](https://medium.com/@berksudan) |
+| Teofil Bodea   | [github.com/Teofil98](https://github.com/Teofil98)     | [linkedin.com/in/teofil-bodea-4090811a3](https://linkedin.com/in/teofil-bodea-4090811a3)     | [teo.bodea12@yahoo.com](mailto:teo.bodea12@yahoo.com)         | -                                                      |
+| Li Zhou        | [github.com/lizhouinfo](https://github.com/lizhouinfo) | [linkedin.com/in/li-zhou-782021226](https://linkedin.com/in/li-zhou-782021226)               | [li.zhou@tum.de](mailto:li.zhou@tum.de)                       | -                                                      |
+| Saqib Ali Khan | [github.com/saqib22](https://github.com/saqib22)       | [linkedin.com/in/saqib-ali-khan-660913129](https://linkedin.com/in/saqib-ali-khan-660913129) | [teo.bodea12@yahoo.com](mailto:teo.bodea12@yahoo.com)         | -                                                      |
+
+
+## How to Build
+
++ If you are using a GNU/Linux operating system, you can directly build by executing the following Bash command:
+
+```bash
+chmod u+x ./build.sh && ./build.sh
+```
+
++ If you are not using a GNU/Linux operating system, please manually install dependencies in ``requirements.txt`` and make sure that your python and pip packages are up-to-date. 
+
+
+## How to Run
+
++ If you are using a GNU/Linux operating system, start Jupyter Notebook by executing the following Bash command:
+
+```bash
+chmod u+x ./run.sh && ./run.sh
+```
+
++ Then, you can open the notebooks in ``notebooks`` directory.
+
++ If you are not using a GNU/Linux operating system, please manually run Jupyter Notebook and open notebooks in ``notebooks`` directory.
+
+
+## Important Note
+
+Due to the privacy, we could not share the data of this challenge.
