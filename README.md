@@ -16,9 +16,9 @@ In Analytics Cup 2022 challenge, teams developed a predictive model that classif
 
 ![Winner Team](./docs/img/winner_team.png)
 
-| Contributer    | GitHub Account                                 | LinkedIn Account                          | Email Address                                                 | Other Links                                    |
-|----------------|------------------------------------------------|-------------------------------------------|---------------------------------------------------------------|------------------------------------------------|
-| Berk Sudan     | [github.com/berksudan](github.com/berksudan)   | linkedin.com/in/berksudan/                | [berk.sudan@protonmail.com](mailto:berk.sudan@protonmail.com) | [medium.com/@berksudan](medium.com/@berksudan) |
-| Teofil Bodea   | [github.com/Teofil98](github.com/Teofil98)     | linkedin.com/in/teofil-bodea-4090811a3    | [teo.bodea12@yahoo.com](mailto:teo.bodea12@yahoo.com)         | -                                              |
-| Li Zhou        | [github.com/lizhouinfo](github.com/lizhouinfo) | linkedin.com/in/li-zhou-782021226         | [li.zhou@tum.de](mailto:li.zhou@tum.de)                       | -                                              |
-| Saqib Ali Khan | [github.com/saqib22](github.com/saqib22)       | linkedin.com/in/saqib-ali-khan-660913129/ | [teo.bodea12@yahoo.com](mailto:teo.bodea12@yahoo.com)         | -                                              |
+| Contributer    | GitHub Account                                         | LinkedIn Account                          | Email Address                                                 | Other Links                                            |
+|----------------|--------------------------------------------------------|-------------------------------------------|---------------------------------------------------------------|--------------------------------------------------------|
+| Berk Sudan     | [github.com/berksudan](https://github.com/berksudan)   | linkedin.com/in/berksudan/                | [berk.sudan@protonmail.com](mailto:berk.sudan@protonmail.com) | [medium.com/@berksudan](https://medium.com/@berksudan) |
+| Teofil Bodea   | [github.com/Teofil98](https://github.com/Teofil98)     | linkedin.com/in/teofil-bodea-4090811a3    | [teo.bodea12@yahoo.com](mailto:teo.bodea12@yahoo.com)         | -                                                      |
+| Li Zhou        | [github.com/lizhouinfo](https://github.com/lizhouinfo) | linkedin.com/in/li-zhou-782021226         | [li.zhou@tum.de](mailto:li.zhou@tum.de)                       | -                                                      |
+| Saqib Ali Khan | [github.com/saqib22](https://github.com/saqib22)       | linkedin.com/in/saqib-ali-khan-660913129/ | [teo.bodea12@yahoo.com](mailto:teo.bodea12@yahoo.com)         | -                                                      |
