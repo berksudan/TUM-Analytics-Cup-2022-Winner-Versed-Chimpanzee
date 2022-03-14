@@ -1,6 +1,6 @@
 # Versed Chimpanzee — The Winner of TUM Analytics Cup 2022 
 
-Our team came **_first_** among 340 people and 148 registered teams (119 teams did submission) in Analytics Cup 2022 challenge sponsored by [Siemens Advanta Consulting](https://www.siemens-advanta.com/) and organized by [TUM Informatics Decision Sciences & Systems Department](https://www.in.tum.de/en/dss). Participant Statistics can be seen below:
+Our team (Versed Chimpanzee)  came **_first_** among 340 people and 148 registered teams (119 teams did submission) in TUM Analytics Cup 2022 challenge sponsored by [Siemens Advanta Consulting](https://www.siemens-advanta.com/) and organized by [TUM Informatics Decision Sciences & Systems Department](https://www.in.tum.de/en/dss). Participant Statistics can be seen below:
 
 ![Participant Statistics](./docs/img/participant_statistics.png)
 
